@@ -25,7 +25,7 @@ const Home: FunctionComponent = () => {
                 />
               </figure>
             </div>
-            <h1 className='title blog-title'>SEO Friendly SPA</h1>
+            <h1 className='title blog-title'>Hello checkpoint</h1>
             <hr />
             <FeatureList featureList={featureList} />
           </div>
