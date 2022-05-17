@@ -26,7 +26,8 @@ initial scaffolding
 
 [`react-helmet`](https://github.com/nfl/react-helmet) - plugin that allows you to manage your app's meta information. It is reusable React component will manage all of your changes to the document head - Helmet takes plain HTML tags and outputs plain HTML tags. It's dead simple, and React beginner friendly.
 
-I have it configured to use one more level of abstraction, where I have the Helmet component and child meta tags broken out to its own component `MetaInfo.tsx`:
+another branch!
+I have it configured to use one more level of abstraction, where I  the Helmet component and child meta tags broken out to its own component `MetaInfo.tsx`:
 
 `MetaInfo.tsx`
 ```TSX
