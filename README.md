@@ -1,6 +1,8 @@
 # react-seo-friendly-spa-template
 React PWA/SPA template configured for SEO (initially scaffolded with Create React App).
 
+
+
 Features:
 - TypeScript
 - All components written as `FunctionComponents` using `React Hooks`
