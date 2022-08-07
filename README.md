@@ -216,3 +216,5 @@ This script will:
  - Build release Webpack bundles and run react-snapshot to serve prerendered static files
 
 ###
+
+another-test
