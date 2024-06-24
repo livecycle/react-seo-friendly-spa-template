@@ -188,6 +188,8 @@ render(
 
 `"build": "react-scripts build && react-snapshot"`
 
+
+
 ## Scripts
 
 ### `npm install`
